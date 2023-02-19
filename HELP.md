@@ -10,11 +10,15 @@ For further reference, please consider the following sections:
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/3.0.2/reference/htmlsingle/#using.devtools)
 * [OAuth2 Client](https://docs.spring.io/spring-boot/docs/3.0.2/reference/htmlsingle/#web.security.oauth2.client)
 * [OAuth2 Resource Server](https://docs.spring.io/spring-boot/docs/3.0.2/reference/htmlsingle/#web.security.oauth2.server)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/3.0.2/reference/htmlsingle/#web)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
 
 * [Building a Hypermedia-Driven RESTful Web Service](https://spring.io/guides/gs/rest-hateoas/)
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
 
 ### Additional Links
 These additional references should also help you:
