@@ -27,3 +27,8 @@ hs_err_pid*
 
 #ignore spring boot files
 target/
+build/
+
+#ignore gradle
+.gradle/
+
